@@ -6,12 +6,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
 namespace Catcher_Game_Automation.Classes
 {
     [Binding]
     public class GameSteps
     {
+       
         private IWebDriver driver;
         private GamePage gamePage;
 

@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace Catcher_Game_Automation.Classes
+namespace Catcher_Game_Automation.Features
 {
     using Reqnroll;
     using System;
@@ -28,7 +28,7 @@ namespace Catcher_Game_Automation.Classes
         
         private static string[] featureTags = ((string[])(null));
         
-        private static global::Reqnroll.FeatureInfo featureInfo = new global::Reqnroll.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Classes", "Game Functionality", "    As a player\r\n    I want to interact with the game\r\n    So that I can play and" +
+        private static global::Reqnroll.FeatureInfo featureInfo = new global::Reqnroll.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "Game Functionality", "    As a player\r\n    I want to interact with the game\r\n    So that I can play and" +
                 " enjoy it", global::Reqnroll.ProgrammingLanguage.CSharp, featureTags);
         
 #line 1 "GameTests.feature"
